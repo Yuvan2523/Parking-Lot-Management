@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*/{
+    font-family: 'Roboto', sans-serif;
+    padding:0;
+    margin:0;
+    border:0
+}
+body{
+    background-color: white;
+ }
+header{
+    background-color: rgb(82, 82, 182);
+}
+#header-logo{
+    width: 100px;
+    height:100px;
+    align-items: center;
+    margin-top: 25px;
+}
+#header-msg{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+#btnOne{
+    background-color:rgb(82, 82, 182);
+    color:white;
+    font-family:Verdana,sans-serif;
+}
+
+#tableHead{
+    background-color:rgb(82, 82, 182);
+}
+#searchInput{
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    border-bottom: 1px solid #ced4da;
+}
+
